@@ -5,8 +5,8 @@
  */
 package br.edu.ifes.poo2.pizzariatocomfome.app;
 
-import br.edu.ifes.pizzariatocomfome.facade.PizzaFacade;
-import br.edu.ifes.poo2.flyweight.PizzaFlyweightFactory;
+import br.edu.ifes.poo2.pizzariatocomfome.facade.PizzaFacade;
+import br.edu.ifes.poo2.pizzariatocomfome.flyweight.PizzaFlyweightFactory;
 import br.edu.ifes.poo2.pizzariatacomfome.cdp.Pizza;
 
 /**
